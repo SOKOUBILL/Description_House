@@ -1,0 +1,17 @@
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\Description_House\Description_House\bin\Debug\net6.0\Description_House.exe
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\Description_House\Description_House\bin\Debug\net6.0\Description_House.deps.json
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\Description_House\Description_House\bin\Debug\net6.0\Description_House.runtimeconfig.json
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\Description_House\Description_House\bin\Debug\net6.0\Description_House.dll
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\Description_House\Description_House\bin\Debug\net6.0\Description_House.pdb
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\Description_House\Description_House\obj\Debug\net6.0\Description_House.csproj.AssemblyReference.cache
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\Description_House\Description_House\obj\Debug\net6.0\Description_House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\Description_House\Description_House\obj\Debug\net6.0\Description_House.AssemblyInfoInputs.cache
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\Description_House\Description_House\obj\Debug\net6.0\Description_House.AssemblyInfo.cs
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\Description_House\Description_House\obj\Debug\net6.0\Description_House.csproj.CoreCompileInputs.cache
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\Description_House\Description_House\obj\Debug\net6.0\Description_House.dll
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\Description_House\Description_House\obj\Debug\net6.0\refint\Description_House.dll
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\Description_House\Description_House\obj\Debug\net6.0\Description_House.pdb
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\Description_House\Description_House\obj\Debug\net6.0\Description_House.genruntimeconfig.cache
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\Description_House\Description_House\obj\Debug\net6.0\ref\Description_House.dll
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\Description_House\Description_House\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Sokou Billionaire\Documents\courscharp\HomeTraining\dat\Dattraining\Dattraining\Description_House\Description_House\obj\Debug\net6.0\Description_House.csproj.CopyComplete
